@@ -1,3 +1,14 @@
 .form-center{
     max-width: 400px;
 }
+
+.is-invalid{
+    border-top-color: rgb(207, 34, 49);
+    border-right-color: rgb(207, 34, 49);
+    border-bottom-color: rgb(207, 34, 49);
+    border-left-color: rgb(207, 34, 49);
+}
+
+.invalid-feedback{
+    color:  rgb(207, 34, 49);
+}
